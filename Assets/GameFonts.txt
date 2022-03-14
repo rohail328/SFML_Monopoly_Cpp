@@ -1,0 +1,11 @@
+10
+Assets\Fonts\OpenSans-Bold.ttf Bold
+Assets\Fonts\OpenSans-BoldItalic.ttf BoldItalic
+Assets\Fonts\OpenSans-ExtraBold.ttf ExtraBold
+Assets\Fonts\OpenSans-ExtraBoldItalic.ttf ExtraBoldItalic
+Assets\Fonts\OpenSans-Italic.ttf Italic
+Assets\Fonts\OpenSans-Light.ttf Light
+Assets\Fonts\OpenSans-LightItalic.ttf LightItalic
+Assets\Fonts\OpenSans-Regular.ttf Regular
+Assets\Fonts\OpenSans-Semibold.ttf SemiBold
+Assets\Fonts\OpenSans-SemiboldItalic.ttf SemiBoldItalic

@@ -1,0 +1,7 @@
+6
+Assets\Backgrounds\GameBoard.png gameboard
+Assets\Backgrounds\HomeButtonMenu.png home
+Assets\Backgrounds\Menu.png mainmenu
+Assets\Backgrounds\PlayerMenu.png playernumber
+Assets\Backgrounds\SALE_AUCTION.png sale
+Assets\Backgrounds\wallpaper.jpg wallpaper

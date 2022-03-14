@@ -1,0 +1,11 @@
+10
+Assets\Players\Player_1.png p1
+Assets\Players\Player_2.png p2
+Assets\Players\Player_3.png p3
+Assets\Players\Player_4.png p4
+Assets\Players\Player_5.png p5
+Assets\Players\Player_Token_1.png p1_token
+Assets\Players\Player_Token_2.png p2_token
+Assets\Players\Player_Token_3.png p3_token
+Assets\Players\Player_Token_4.png p4_token
+Assets\Players\Player_Token_5.png p5_token

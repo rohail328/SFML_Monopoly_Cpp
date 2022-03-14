@@ -1,0 +1,3 @@
+2
+Assets\Animations\DiceRoll.png DiceRoll
+Assets\Animations\Loading.png Loading
